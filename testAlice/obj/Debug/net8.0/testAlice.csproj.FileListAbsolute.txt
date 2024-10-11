@@ -1,0 +1,14 @@
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\bin\Debug\net8.0\testAlice.exe
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\bin\Debug\net8.0\testAlice.deps.json
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\bin\Debug\net8.0\testAlice.runtimeconfig.json
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\bin\Debug\net8.0\testAlice.dll
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\bin\Debug\net8.0\testAlice.pdb
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\testAlice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\testAlice.AssemblyInfoInputs.cache
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\testAlice.AssemblyInfo.cs
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\testAlice.csproj.CoreCompileInputs.cache
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\testAlice.dll
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\refint\testAlice.dll
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\testAlice.pdb
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\testAlice.genruntimeconfig.cache
+C:\Users\tigra\OneDrive\Рабочий стол\ActSec\testAlice\obj\Debug\net8.0\ref\testAlice.dll
